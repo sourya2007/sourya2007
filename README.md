@@ -38,4 +38,4 @@ Check it out for my latest experiments and contributions!
 
 ---
 
-> “Keep learning, keep building, and let your curiosity lead the way!”
+> “Build. Code. Deploy”
