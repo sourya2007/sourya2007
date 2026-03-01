@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sourya Paul or retr0!
+# 👋 Hi, I'm Sourya Paul!
 
 Welcome to my GitHub profile!  
 I'm a passionate **student developer** with a keen interest in Python, Artificial Intelligence, Generative AI, and Machine Learning. I love building cool things, experimenting with the latest AI tools, and striving to become more productive every day.
