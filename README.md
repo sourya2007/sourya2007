@@ -17,6 +17,7 @@ I'm a passionate **student developer** with a keen interest in Python, Artificia
 ## 🌟 Notable Project
 
 ### [Arti-Facts](https://github.com/sourya2007/Arti-Facts)
+### [BioChain-Wallet](https://github.com/sourya2007/BioChain-Wallet)
 > A showcase of my work in AI and creative applications.  
 Check it out for my latest experiments and contributions!
 
