@@ -16,6 +16,7 @@ I'm a passionate **student developer** with a keen interest in Python, Artificia
 
 ## 🌟 Notable Project
 
+### [Rescue AI](https://github.com/sourya2007/rescue-ai)
 ### [Veritas AI](https://github.com/sourya2007/Veritas-AI)
 ### [BioChain-Wallet](https://github.com/sourya2007/BioChain-Wallet)
 > A showcase of my work in AI and creative applications.  
