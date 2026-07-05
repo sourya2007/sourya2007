@@ -24,7 +24,7 @@ Check it out for my latest experiments and contributions!
 
 ## 🏅 Achievements
 
-- Stood first in AXIORA 2026 Hackathon
+- Stood first in AXIORA and SMART VERSE 2026 Hackathons
 - Microsoft Generative AI Fundamentals certified
 - IBM Data Science certified
 - Strong public speaking skills (I love sharing knowledge and presenting ideas!)
