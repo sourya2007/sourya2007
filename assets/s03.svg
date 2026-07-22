@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="50" viewBox="0 0 800 50">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&amp;display=swap');
+      text { font-family: 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+  <line x1="0" y1="30" x2="160" y2="30" stroke="#dee2e6" stroke-width="1"/>
+  <text x="180" y="35" font-size="14" font-weight="700" fill="#212529">03 — achievements</text>
+  <line x1="350" y1="30" x2="800" y2="30" stroke="#dee2e6" stroke-width="1"/>
+</svg>
