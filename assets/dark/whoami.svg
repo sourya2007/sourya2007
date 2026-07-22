@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;700&amp;display=swap');
+      text { font-family: 'JetBrains Mono', monospace; }
+    </style>
+  </defs>
+
+  <!-- Card background -->
+  <rect x="0" y="0" width="800" height="220" rx="8" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Left accent bar -->
+  <rect x="0" y="0" width="4" height="220" rx="2" fill="#4d6bfe"/>
+
+  <!-- Icon -->
+  <circle cx="50" cy="40" r="18" fill="#4d6bfe" opacity="0.15"/>
+  <text x="50" y="46" text-anchor="middle" font-size="20">🎓</text>
+
+  <!-- Content -->
+  <text x="90" y="44" font-size="16" font-weight="700" fill="#c9d1d9">Student Developer @ India</text>
+
+  <text x="90" y="72" font-size="13" fill="#8b949e">
+    <tspan x="90" dy="0">Passionate about Python, Artificial Intelligence, Generative AI,</tspan>
+    <tspan x="90" dy="22">and Machine Learning. I love building things that matter — from</tspan>
+    <tspan x="90" dy="22">AI-powered disaster response systems to blockchain wallets.</tspan>
+  </text>
+
+  <text x="90" y="160" font-size="13" fill="#8b949e">
+    <tspan x="90" dy="0" font-weight="700" fill="#c9d1d9">🏆 AXIORA 2026</tspan>
+    <tspan dx="20" fill="#484f58">1st Place — AI/ML Hackathon</tspan>
+  </text>
+  <text x="90" y="184" font-size="13" fill="#8b949e">
+    <tspan x="90" dy="0" font-weight="700" fill="#c9d1d9">🏆 SMART VERSE 2026</tspan>
+    <tspan dx="20" fill="#484f58">1st Place — Innovation Challenge</tspan>
+  </text>
+  <text x="90" y="208" font-size="13" fill="#8b949e">
+    <tspan x="90" dy="0" font-weight="700" fill="#c9d1d9">🎸</tspan>
+    <tspan dx="6" fill="#484f58">Guitarist &amp; Pianist — music fuels my code.</tspan>
+  </text>
+</svg>
