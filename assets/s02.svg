@@ -6,6 +6,6 @@
     </style>
   </defs>
   <line x1="0" y1="30" x2="180" y2="30" stroke="#dee2e6" stroke-width="1"/>
-  <text x="200" y="35" font-size="14" font-weight="700" fill="#212529">02 — projects</text>
-  <line x1="340" y1="30" x2="800" y2="30" stroke="#dee2e6" stroke-width="1"/>
+  <text x="200" y="35" font-size="14" font-weight="700" fill="#212529">02 — system map</text>
+  <line x1="350" y1="30" x2="800" y2="30" stroke="#dee2e6" stroke-width="1"/>
 </svg>
