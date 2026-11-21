@@ -5293,80 +5293,34 @@
       "zIndex": 5
     },
     {
-      "instanceId": "widget_ce981b2b-d68a-4e3f-9e0f-39ab2b2dcdd0",
-      "widgetId": "social-media",
-      "name": "Social-media Widget",
+      "instanceId": "widget_15d689f1-4baf-4c4a-be0f-be9745ef65d1",
+      "widgetId": "repositories",
+      "name": "Repositories Widget",
       "position": {
-        "x": 308,
-        "y": 626
+        "x": 8,
+        "y": 634
       },
       "size": {
-        "width": 184,
-        "height": 48
+        "width": 784,
+        "height": 248
       },
       "config": {
-        "selectedSocials": [
-          "github",
-          "linkedin",
-          "instagram",
-          "twitter",
-          "email"
-        ],
-        "socialUrls": {
-          "github": "https://github.com/sourya2007",
-          "linkedin": "https://www.linkedin.com/in/souryapaul/",
-          "instagram": "https://www.instagram.com/shotbysourya/",
-          "website": "https://g.dev/souryapaul",
-          "email": "mailto:souryapaul2007@gmail.com"
-        },
-        "badgeStyle": "skillicons",
-        "showTitle": false,
-        "backgroundColor": "transparent",
-        "borderColor": "transparent"
+        "repoCardHeight": 66,
+        "showTitle": true,
+        "repoViewMode": "grid",
+        "maxRepos": 4,
+        "showRepoForks": false,
+        "showRepoUpdated": true,
+        "selectedRepos": [
+          "Mergin",
+          "deckframe",
+          "ultra-gps",
+          "IIFR-DGX-Spark-Internship-Project"
+        ]
       },
       "locked": false,
       "visible": true,
       "zIndex": 6
-    },
-    {
-      "instanceId": "widget_065658ae-99b3-4bdf-b62d-ca976bc5dcbb",
-      "widgetId": "divider",
-      "name": "Divider Widget",
-      "position": {
-        "x": 0,
-        "y": 634
-      },
-      "size": {
-        "width": 320,
-        "height": 40
-      },
-      "config": {
-        "backgroundColor": "transparent",
-        "borderColor": "transparent"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_4fb4973f-e983-4b6a-9ec5-ee13751a839a_0",
-      "widgetId": "divider",
-      "name": "Divider Widget (Cópia)",
-      "position": {
-        "x": 480,
-        "y": 634
-      },
-      "size": {
-        "width": 320,
-        "height": 40
-      },
-      "config": {
-        "backgroundColor": "transparent",
-        "borderColor": "transparent"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 8
     }
   ],
   "globalStyles": {
@@ -5384,7 +5338,7 @@
   "templateId": "blank",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1795270068075_uhcqb",
-    "updatedAt": "2026-11-21T14:07:50.063Z"
+    "revision": "rev_1795270486123_512gy",
+    "updatedAt": "2026-11-21T14:14:48.416Z"
   }
 }
